@@ -1,0 +1,15 @@
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\bin\Debug\net6.0\Filme.Infantil.exe
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\bin\Debug\net6.0\Filme.Infantil.deps.json
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\bin\Debug\net6.0\Filme.Infantil.runtimeconfig.json
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\bin\Debug\net6.0\Filme.Infantil.dll
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\bin\Debug\net6.0\Filme.Infantil.pdb
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.csproj.AssemblyReference.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.AssemblyInfoInputs.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.AssemblyInfo.cs
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.csproj.CoreCompileInputs.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.dll
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\refint\Filme.Infantil.dll
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.pdb
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\Filme.Infantil.genruntimeconfig.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Filme.Infantil\obj\Debug\net6.0\ref\Filme.Infantil.dll
